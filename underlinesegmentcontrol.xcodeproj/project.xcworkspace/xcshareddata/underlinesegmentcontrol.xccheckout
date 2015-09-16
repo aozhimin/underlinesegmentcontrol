@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>900125E7-B11A-472E-8BEF-DD2B4BA3C7BB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>underlinesegmentcontrol</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>50692AA23328D80EF969DF428398A5350635CC8D</key>
+		<string>https://github.com/aozhimin/underlinesegmentcontrol.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>underlinesegmentcontrol.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>50692AA23328D80EF969DF428398A5350635CC8D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/aozhimin/underlinesegmentcontrol.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>50692AA23328D80EF969DF428398A5350635CC8D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>50692AA23328D80EF969DF428398A5350635CC8D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>underlinesegmentcontrol</string>
+		</dict>
+	</array>
+</dict>
+</plist>

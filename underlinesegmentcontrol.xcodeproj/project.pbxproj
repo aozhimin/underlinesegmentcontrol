@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		15C5B2E11BA95D8200327380 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 15C5B2E01BA95D8200327380 /* TestViewController.m */; };
 		D4E7F4541B7D9D0000C46467 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D4E7F4531B7D9D0000C46467 /* main.m */; };
 		D4E7F4571B7D9D0000C46467 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D4E7F4561B7D9D0000C46467 /* AppDelegate.m */; };
 		D4E7F45A1B7D9D0000C46467 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4E7F4591B7D9D0000C46467 /* ViewController.m */; };
@@ -27,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		15C5B2DF1BA95D8200327380 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		15C5B2E01BA95D8200327380 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 		D4E7F44E1B7D9D0000C46467 /* underlinesegmentcontrol.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = underlinesegmentcontrol.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4E7F4521B7D9D0000C46467 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D4E7F4531B7D9D0000C46467 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -91,6 +94,8 @@
 				D4E7F45E1B7D9D0000C46467 /* Images.xcassets */,
 				D4E7F4601B7D9D0000C46467 /* LaunchScreen.xib */,
 				D4E7F4511B7D9D0000C46467 /* Supporting Files */,
+				15C5B2DF1BA95D8200327380 /* TestViewController.h */,
+				15C5B2E01BA95D8200327380 /* TestViewController.m */,
 			);
 			path = underlinesegmentcontrol;
 			sourceTree = "<group>";
@@ -224,6 +229,7 @@
 				D4E7F4571B7D9D0000C46467 /* AppDelegate.m in Sources */,
 				D4E7F4791B7D9FD700C46467 /* UnderlineSegmentControl.m in Sources */,
 				D4E7F4541B7D9D0000C46467 /* main.m in Sources */,
+				15C5B2E11BA95D8200327380 /* TestViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -343,6 +349,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: 志敏 敖 (3AB35F4TZ7)";
 				INFOPLIST_FILE = underlinesegmentcontrol/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -412,6 +419,7 @@
 				D4E7F4731B7D9D0000C46467 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D4E7F4741B7D9D0000C46467 /* Build configuration list for PBXNativeTarget "underlinesegmentcontrolTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +428,7 @@
 				D4E7F4761B7D9D0000C46467 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
